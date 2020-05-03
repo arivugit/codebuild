@@ -1,7 +1,7 @@
 import json
 import boto3
 import requests
-
+#update check by arivu
 
 def lambda_handler(event, context):
     # TODO implement
