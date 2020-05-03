@@ -1,7 +1,7 @@
 import json
 import boto3
 import requests
-#update check by arivu secound time
+#update check by arivu secound time 1217
 
 def lambda_handler(event, context):
     # TODO implement
